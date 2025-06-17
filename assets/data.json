@@ -1,0 +1,150 @@
+{
+  "name": "Rizky Fadillah",
+  "title": "Software Developer",
+  "contact": {
+    "phone": "+62 851 4222 3090",
+    "email": "officialfadillahrizki@gmail.com",
+    "address": "Sungai Piring, Kec. Pulau Rakyat, Kabupaten Asahan, Sumatera Utara 21273"
+  },
+  "description" : "I am very interested in the world of software development. I have experience in building or managing software, either alone or with a team. Even though I mostly work alone, I still maintain teamwork when I'm with the team.",
+  "social": {
+    "facebook": "https://facebook.com/fadillahrzki",
+    "linkedin": "https://linkedin.com/in/fadillahrizki",
+    "instagram": "https://instagram.com/fadillahrzki"
+  },
+  "skills": [
+    { "name": "PHP", "experience_years": 4 },
+    { "name": "Javascript", "experience_years": 4 },
+    { "name": "Laravel", "experience_years": 3 },
+    { "name": "NodeJS", "experience_years": 2 },
+    { "name": "React", "experience_years": 2 },
+    { "name": "Vue", "experience_years": 2 },
+    { "name": "Android Java", "experience_years": 3 },
+    { "name": "Android Kotlin", "experience_years": 2 },
+    { "name": "Flutter", "experience_years": 1 },
+    { "name": "React Native", "experience_years": 1 }
+  ],
+  "services": [
+    {
+      "name": "Web Development",
+      "description": "creating, maintaining, and optimizing websites and web applications."
+    },
+    {
+      "name": "Mobile Development",
+      "description": "designing, building, and maintaining applications for mobile devices."
+    },
+    {
+      "name": "UI/UX",
+      "description": "designing and improving the look, feel, and overall experience of digital products."
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "SIOKAP LABURA",
+      "type": "Mobile Development",
+      "description": "Online Information System for Child and Women Violence in North Labuhanbatu Regency."
+    },
+    {
+      "name": "TMC Minat Bakat",
+      "type": "Web Development",
+      "description": "Online exam website focused on interests and talents."
+    },
+    {
+      "name": "Peers Dashboard",
+      "type": "Web Development",
+      "description": "Web managing main application / AO."
+    },
+    {
+      "name": "Peers AO",
+      "type": "Mobile Development",
+      "description": "Application used by AO to run cooperatives."
+    },
+    {
+      "name": "Peers Report",
+      "type": "Web Development",
+      "description": "Application for customers to check their data and reports."
+    },
+    {
+      "name": "MeeFX - CRM",
+      "type": "Web Development",
+      "description": "CRM system for MeeFX international forex broker."
+    },
+    {
+      "name": "BullishFX - Report",
+      "type": "Web Development",
+      "description": "Reporting tool for BullishFX forex trading members."
+    },
+    {
+      "name": "SIPUKAT Kota Tanjungbalai",
+      "type": "Mobile Development",
+      "description": "Community Satisfaction Survey app for Tanjungbalai City."
+    },
+    {
+      "name": "SIDAK Kota Tanjungbalai",
+      "type": "Mobile Development",
+      "description": "Attendance collection app for ASN in Tanjungbalai City government."
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Z Techno",
+      "position": "Software Engineer",
+      "start": "Jul 2019",
+      "end": "Dec 2024",
+      "description": "I started my career as a freelancer by working on several small projects from clients MSME entrepreneurs."
+    },
+    {
+      "company": "24x7Studios",
+      "position": "Web Developer",
+      "start": "Jul 2020",
+      "end": "Oct 2020",
+      "description":"24x7Studios is a software house company that focuses on web development."
+    },
+    {
+      "company": "Peers ID",
+      "position": "Android Engineer",
+      "start": "Feb 2021",
+      "end": "Jun 2021",
+      "description":"Peers ID is a start-up that helps cooperatives change their business operations Manual - traditional becomes modern with the use of technology."
+    },
+    {
+      "company": "Devhunts",
+      "position": "Software Developer",
+      "start": "Jul 2021",
+      "end": "Aug 2022",
+      "description":"DevHunts is a place where people like you looking for a Professional Expert Developer. We will help you to increase your business very rapidly through technology."
+    },
+    {
+      "company": "Topremit",
+      "position": "Backend Engineer",
+      "start": "Sep 2022",
+      "end": "Oct 2022",
+      "description":"Topremit is an online-based overseas money transfer service from Indonesia so that transactions can be easier, cheaper and faster. As the first online remittance service in Indonesia, Topremit always strives to provide the best overseas money transfer services for users."
+    },
+    {
+      "company": "Skyshi Digital Indonesia",
+      "position": "Frontend Developer",
+      "start": "Nov 2022",
+      "end": "Dec 2022",
+      "description":"Empowering your business with Indonesia's best tech talent. We connect startups and businesses with curated specialists: Front-End Developer, Back-End Developer, Full-Stack Developer, Mobile Developer, Quality Assurance, and AI/ML Developer. With a rigorous screening process and global-ready talent, Skyshi ensures your project success."
+    },
+    {
+      "company": "PT. Akhdani Reka Solusi",
+      "position": "Software Developer",
+      "start": "Dec 2022",
+      "end": "Jan 2023",
+      "description":"Akhdani is a software house company with main services in custom-made software. Apart from that, he is also involved in various software maintenance, data-warehouse development, system integration, and consulting."
+    },
+    {
+      "company": "PT. Lingkar Kreasi (Circle Creative)",
+      "position": "Software Engineer",
+      "start": "Nov 2023",
+      "end": "Dec 2024",
+      "description":"Circle Creative is a leading creative agency in Indonesia with over 25 years of experience. We transform your ideas into captivating graphic and multimedia creations, coupled with innovative tech-enabled solutions that are creative, unique, and hi-tech."
+    }
+  ],
+  "statistics": {
+    "finished_projects": "12+",
+    "certifications": "20+"
+  }
+}
