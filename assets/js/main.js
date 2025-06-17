@@ -45,10 +45,14 @@ var uiuxIcon = `<div class="mx-auto h-24 w-24 text-center xl:h-28 xl:w-28">
 
 getData().then((data) => {
   var intro = document.querySelector("#intro");
+  var phone = document.querySelector("#phone");
+  var email = document.querySelector("#email");
+  var address = document.querySelector("#address");
   var title = document.querySelector("#title");
   var description = document.querySelector("#description");
   var socialsMain = document.querySelector("#socials-main");
   var socials = document.querySelector("#socials");
+  var socialsFooter = document.querySelector("#socials-footer");
   var skillsItems = document.querySelector("#skills");
   var portfolioItems = document.querySelector("#portfolio-items");
   var servicesItems = document.querySelector("#services-items");
@@ -58,7 +62,9 @@ getData().then((data) => {
 
   intro.innerHTML = `Hello I'm ${data.name}!`;
   title.innerHTML = `I'm ${data.name}, a ${data.title}`;
-  description.innerHTML = data.description;
+  phone.innerHTML = data.contact.phone;
+  email.innerHTML = data.contact.email;
+  address.innerHTML = data.contact.address;
 
   Object.keys(data.social).forEach((social, idx) => {
     socialsMain.innerHTML += `<a href="${data.social[social]}"
@@ -71,6 +77,12 @@ getData().then((data) => {
                       target="_blank" class="${idx > 0 ? "pl-4" : ""}">
                       <i
                         class="bx bxl-${social} text-2xl text-primary hover:text-yellow"></i>
+                    </a>`;
+
+    socialsFooter.innerHTML += `<a href="${data.social[social]}"
+                      target="_blank" class="${idx > 0 ? "pl-4" : ""}">
+                      <i
+                        class="bx bxl-${social} text-2xl text-white hover:text-yellow"></i>
                     </a>`;
   });
 
