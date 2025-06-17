@@ -40,6 +40,18 @@
   ],
   "portfolio": [
     {
+      "name": "Facegram",
+      "type": "Web Development",
+      "description": "A social media platform for sharing photos and connecting with friends.",
+      "url" : "https://facegram-lks.vercel.app"
+    },
+    {
+      "name": "Da News",
+      "type": "Web Development",
+      "description": "A simple infinite scroll news app with dark theme support using React and Vite.",
+      "url" : "https://da-news.vercel.app"
+    },
+    {
       "name": "SIOKAP LABURA",
       "type": "Mobile Development",
       "description": "Online Information System for Child and Women Violence in North Labuhanbatu Regency."

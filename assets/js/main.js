@@ -65,6 +65,7 @@ getData().then((data) => {
   phone.innerHTML = data.contact.phone;
   email.innerHTML = data.contact.email;
   address.innerHTML = data.contact.address;
+  description.innerHTML = data.description;
 
   Object.keys(data.social).forEach((social, idx) => {
     socialsMain.innerHTML += `<a href="${data.social[social]}"
@@ -134,7 +135,9 @@ getData().then((data) => {
         ? mobileIcon
         : uiuxIcon;
     portfolioItems.innerHTML += `
-        <div class="group rounded px-8 py-12 shadow hover:bg-primary">
+        <a href="${item.url ? item.url : "javascript:void()"}" ${
+      item.url ? 'target="_blank"' : ""
+    } class="group rounded px-8 py-12 shadow hover:bg-primary">
             ${icon}
             <div class="text-center">
                 <h3
@@ -146,7 +149,7 @@ getData().then((data) => {
                 ${item.description}
                 </p>
             </div>
-        </div>
+        </a>
     `;
   });
 
