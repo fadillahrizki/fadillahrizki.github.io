@@ -6,7 +6,7 @@
     "email": "officialfadillahrizki@gmail.com",
     "address": "Sungai Piring, Kec. Pulau Rakyat, Kabupaten Asahan, Sumatera Utara 21273"
   },
-  "description" : "I am very interested in the world of software development. I have experience in building or managing software, either alone or with a team. Even though I mostly work alone, I still maintain teamwork when I'm with the team.",
+  "description": "I am very interested in the world of software development. I have experience in building or managing software, either alone or with a team. Even though I mostly work alone, I still maintain teamwork when I'm with the team.",
   "social": {
     "facebook": "https://facebook.com/fadillahrzki",
     "linkedin": "https://linkedin.com/in/fadillahrizki",
@@ -43,19 +43,19 @@
       "name": "Facegram",
       "type": "Web Development",
       "description": "A social media platform for sharing photos and connecting with friends.",
-      "url" : "https://facegram-lks.vercel.app"
+      "url": "https://facegram-lks.vercel.app"
     },
     {
       "name": "Da News",
       "type": "Web Development",
       "description": "A simple infinite scroll news app with dark theme support using React and Vite.",
-      "url" : "https://da-news.vercel.app"
+      "url": "https://da-news.vercel.app"
     },
     {
       "name": "Personal Notes",
       "type": "Web Development",
       "description": "A simple notes app",
-      "url" : "https://personal-notes-swart.vercel.app"
+      "url": "https://personal-notes-swart.vercel.app"
     },
     {
       "name": "SIOKAP LABURA",
@@ -101,6 +101,11 @@
       "name": "SIDAK Kota Tanjungbalai",
       "type": "Mobile Development",
       "description": "Attendance collection app for ASN in Tanjungbalai City government."
+    },
+    {
+      "name": "SIMAt",
+      "type": "Mobile Development",
+      "description": "Sultan Iskandar Muda Absensi (SIMat) is an attendance management system and application used to track the time and attendance of employees and teachers at Sultan Iskandar Muda School (SIM). SIM uses this system to document its employees' work hours and vacation time. With this system, SIMAt helps SIM's human resources department save time and effort in calculating employee work hours."
     }
   ],
   "work_experience": [
@@ -116,28 +121,28 @@
       "position": "Web Developer",
       "start": "Jul 2020",
       "end": "Oct 2020",
-      "description":"24x7Studios is a software house company that focuses on web development."
+      "description": "24x7Studios is a software house company that focuses on web development."
     },
     {
       "company": "Peers ID",
       "position": "Android Engineer",
       "start": "Feb 2021",
       "end": "Jun 2021",
-      "description":"Peers ID is a start-up that helps cooperatives change their business operations Manual - traditional becomes modern with the use of technology."
+      "description": "Peers ID is a start-up that helps cooperatives change their business operations Manual - traditional becomes modern with the use of technology."
     },
     {
       "company": "Devhunts",
       "position": "Software Developer",
       "start": "Jul 2021",
       "end": "Aug 2022",
-      "description":"DevHunts is a place where people like you looking for a Professional Expert Developer. We will help you to increase your business very rapidly through technology."
+      "description": "DevHunts is a place where people like you looking for a Professional Expert Developer. We will help you to increase your business very rapidly through technology."
     },
     {
       "company": "PT. Lingkar Kreasi (Circle Creative)",
       "position": "Software Engineer",
       "start": "Nov 2023",
       "end": "Dec 2024",
-      "description":"Circle Creative is a leading creative agency in Indonesia with over 25 years of experience. We transform your ideas into captivating graphic and multimedia creations, coupled with innovative tech-enabled solutions that are creative, unique, and hi-tech."
+      "description": "Circle Creative is a leading creative agency in Indonesia with over 25 years of experience. We transform your ideas into captivating graphic and multimedia creations, coupled with innovative tech-enabled solutions that are creative, unique, and hi-tech."
     }
   ],
   "statistics": {
